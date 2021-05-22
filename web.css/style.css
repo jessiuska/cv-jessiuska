@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(245, 239, 247);
+}
+
+body {
+    background-color: rosybrown;
+}
+
+p {
+    color: black;
+}
+
+h4,
+h3,
+ul {
+    color: rgb(26, 57, 114);
+}
